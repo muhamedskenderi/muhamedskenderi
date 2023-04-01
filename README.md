@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer living in Chemnitz, Germany - a passionate fan of the machines that have created wonders. I absolutely love simplifying complex issues into elegant, lovely, and understandable designs.<br><br>I'm responsible for creating a website for you that is aesthetically pleasing and practical. Additionally, I give a personal touch to your product and ensure that it is appealing and straightforward to use. I want to convey your individuality and message in the most original way possible.
+I'm a Software Developer living in Chemnitz, Germany - a passionate fan of the machines that have created wonders. I absolutely love simplifying complex issues into elegant, lovely, and understandable designs.
 
 
 ## 🌐 Socials:
